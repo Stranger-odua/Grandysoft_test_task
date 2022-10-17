@@ -1,0 +1,13 @@
+#canvas {
+    margin: 20px auto;
+    display: flex;
+    border: 1px solid red;
+}
+
+.button {
+    margin: 10px auto;
+    display: flex;
+    border: 1px solid red;
+    padding: 10px 20px;
+    border-radius: 4px;
+}
